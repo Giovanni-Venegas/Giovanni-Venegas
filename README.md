@@ -1,10 +1,10 @@
 <h2> Hi, I'm Josue Venegas! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://gph.is/g/EJNJnox" width="230">
 <p><em>Software Enginner at <a href="https://ibero.mx/">Universidad Iberoamericana</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Backend at <a href="https://coriat.com.mx/">Coriat</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: giovanni6](https://img.shields.io/twitter/follow/giovanni6?style=social)](https://twitter.com/gioavanni6)
-[![Linkedin: Giovanni Josue](https://img.shields.io/badge/-Giovanni Josue-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanni-josue-a5a700190/)](https://www.linkedin.com/in/giovanni-josue-a5a700190/)
+[![Linkedin: Giovanni Josue](https://img.shields.io/badge/-giovanni-josue-a5a700190/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanni-josue-a5a700190/)](https://www.linkedin.com/in/giovanni-josue-a5a700190/)
 
 
 
